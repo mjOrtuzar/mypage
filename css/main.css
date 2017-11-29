@@ -1,0 +1,51 @@
+header{
+    background-color: olive;
+    height: 70px;
+}
+.logo{
+    text-align: center;
+    
+}
+.logo p{
+    font-size: 24px;
+}
+.menu nav ul li{
+    display:inline;
+    float:right;
+    margin:7px;
+    font-size: 20px;
+}
+.menu{
+    background-color: blue;
+    height: 70px;
+}
+
+footer{
+    background-color: olive;
+    height:70px;
+}
+
+/*section intro */
+
+#intro{
+    background-color:red;
+    height: 400px;
+}
+
+.welcome{
+    text-align: center;
+    padding-top:27px;
+    
+}
+
+.welcome h1{
+    font-size: 3.5em;
+    font-family: 'Gloria Hallelujah', cursive;
+    
+}
+
+.welcome h2{
+    font-size: 3em;
+    font-family: 'Gloria Hallelujah', cursive;
+    
+}
