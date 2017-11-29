@@ -8,12 +8,16 @@ header{
 }
 .logo p{
     font-size: 24px;
+    font-family: 'Gloria Hallelujah', cursive;
+    
 }
 .menu nav ul li{
     display:inline;
     float:right;
     margin:7px;
     font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+    
 }
 .menu{
     background-color: blue;
@@ -28,13 +32,13 @@ footer{
 /*section intro */
 
 #intro{
-    background-color:red;
+    background-image: url(../img/fondo2.jpg);
     height: 400px;
 }
 
 .welcome{
     text-align: center;
-    padding-top:27px;
+    padding-top:4em;
     
 }
 
@@ -48,4 +52,12 @@ footer{
     font-size: 3em;
     font-family: 'Gloria Hallelujah', cursive;
     
+}
+
+.desc{
+    text-align: center;
+}
+.desc img{
+    height: 200px;
+    width: 200px;
 }
