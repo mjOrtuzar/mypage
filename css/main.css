@@ -10,11 +10,10 @@ header{
     font-family: 'Gloria Hallelujah', cursive;
 }
 .menu nav{
-    margin-right: 50px;
+    margin-left: 70px;
 }
 .menu nav ul li{
     display:inline;
-    float:right;
     margin:7px;
     font-size: 20px;
     font-family: 'Gloria Hallelujah', cursive;
