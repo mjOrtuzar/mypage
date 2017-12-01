@@ -1,5 +1,5 @@
 header{
-    background-color: olive;
+    background-color: #FE9A2E;
     height: 70px;
 }
 .logo{
@@ -9,6 +9,9 @@ header{
     font-size: 24px;
     font-family: 'Gloria Hallelujah', cursive;
 }
+.menu nav{
+    margin-right: 50px;
+}
 .menu nav ul li{
     display:inline;
     float:right;
@@ -16,57 +19,76 @@ header{
     font-size: 20px;
     font-family: 'Gloria Hallelujah', cursive;
 }
-.menu{
-    background-color: blue;
-    height: 70px;
-}
 
 footer{
-    background-color: olive;
+    background-color:#FE9A2E;
     height:70px;
+}
+footer p{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    padding-top:20px;
+    font-size:17px;
 }
 #intro{
     background-image: url(../img/fondo2.jpg);
     height: 400px;
 }
-
+/* ++++++++++++++++++++++++++++++++++*/
 .welcome{
     text-align: center;
     padding-top:4em;
 }
-
 .welcome h1{
     font-size: 3.5em;
     font-family: 'Gloria Hallelujah', cursive;
 }
-
 .welcome h2{
     font-size: 3em;
     font-family: 'Gloria Hallelujah', cursive;
 }
+.about h2{
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-left:55px;
+}
+.parr p{
+    width:500px;
+   text-align: justify;
+   padding-top:40px;
+   margin:auto;
+   font-family: 'Gloria Hallelujah', cursive;
+}
 
-.cont{
-    text-align: center;
-}
-.about{
-    background-color:blue;
-   
-}
-.about p{
-    width:400px;
-    height: 400px;
-}
 .contact ul li{
     list-style:none;
+    margin:7px; 
+    text-align: justify;
+    padding-left: 200px;
 }
-
-.desc{
+.contact p{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: justify;
+    font-size: 18px;
+    padding-left:200px;
+}
+.contact ul li a{
+    text-decoration: none;
+    font-size:18px;
+    color:#000;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.pic{
     text-align: center;
 }
-.box{
-    border:2px solid #000;
-}
-.desc img{
+.pic img{
+    width:200px;
     height: 200px;
-    width: 200px;
+}
+h4{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: justify
+}
+.descrp p{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: justify
 }
